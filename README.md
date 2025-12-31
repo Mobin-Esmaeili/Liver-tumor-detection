@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/177Eki7CnZlgADdPXg4D5fvWP0juI7onx
 
 1. Dermatologist-level Classification of Skin Cancer with Deep Neural Networks
 
-2. Artificial Intelligence in Healthcare
+2. Medical Image Analysis
 
 3. Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs
 
