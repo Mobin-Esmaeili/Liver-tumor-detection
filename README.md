@@ -15,6 +15,11 @@ https://drive.google.com/drive/folders/177Eki7CnZlgADdPXg4D5fvWP0juI7onx
 
 5. Using Generative AI to Improve the Performance and Interpretability of Rule-Based Diagnosis of Type 2 Diabetes Mellitus
 
+---
+# Best Model
+
+Download from here: https://drive.google.com/drive/folders/177Eki7CnZlgADdPXg4D5fvWP0juI7onx
+
 
 ---
 
